@@ -1,5 +1,9 @@
 
 🏦 Bank Customer Churn Prediction using ANN
+
+Live App:
+https://bank-churn-ann-uqq5xmsbaappjwbeswuhzbh.streamlit.app/
+
 📌 Project Overview
 
 This project predicts whether a bank customer will leave the bank (churn) using an Artificial Neural Network (ANN) built with TensorFlow/Keras.
@@ -48,5 +52,3 @@ NumPy
 Scikit-learn
 Matplotlib / Seaborn
 
-STREAMLIT LIVE DEMO 
-https://bank-churn-ann-uqq5xmsbaappjwbeswuhzbh.streamlit.app/
