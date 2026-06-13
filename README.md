@@ -47,3 +47,6 @@ Pandas
 NumPy
 Scikit-learn
 Matplotlib / Seaborn
+
+STREAMLIT LIVE DEMO 
+https://bank-churn-ann-uqq5xmsbaappjwbeswuhzbh.streamlit.app/
